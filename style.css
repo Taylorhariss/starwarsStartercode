@@ -6,7 +6,7 @@
 }
 /* phone */
 body {
-  background-color: #e4e7ec;
+  background-color: #ffffff;
 }
 
 
@@ -15,11 +15,15 @@ h1 {
   font-family: "SF Distant Galaxy";
 }
 
+.yoda1{
+  display: flex;
+  justify-content: center;
+}
+
 
 
 /* computer */
 @media screen and (min-width: 600px) {
-
 
 
 }
